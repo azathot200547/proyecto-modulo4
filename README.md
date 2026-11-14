@@ -8,6 +8,6 @@ matricula y calificacion utilizando la clase Alumno como base y usando las lista
 
 Declaro que utilize IA, gemini para verificar la estructura de mi codigo, y para el acomodo de los appends en mis listas como la comprobacion de mi lista convertida a entero.
 
-LINK DEL VIDEO EXPLICATIVO AQUI ---- 
+LINK DEL VIDEO EXPLICATIVO AQUI ---- https://www.youtube.com/watch?v=allxnCAaWko
 
 
